@@ -1,0 +1,51 @@
+html, body
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: #555;
+	color: white;
+	font-family: "Roboto Condensed", sans-serif;
+	font-size: 100%;
+}
+
+h1
+{
+	font-size: 4em;
+}
+
+#presence
+{
+	height: 192px;
+}
+
+#presence .icon
+{
+	float: left;
+	margin: 10px;
+}
+
+.icon
+{
+	padding: 20px;
+	background-color: #aaf;
+}
+
+.text-center
+{
+	text-align: center;
+}
+
+.blue
+{
+	background-color: #62B8E3;
+}
+
+.navy
+{
+	background-color: #1B6D96;
+}
+
+.grey
+{
+	background-color: #bbb;
+}
