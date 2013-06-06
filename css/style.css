@@ -8,6 +8,11 @@ html, body
 	font-size: 100%;
 }
 
+p
+{
+	margin: 0px;
+}
+
 #header
 {
 	background-color: black;
@@ -27,9 +32,16 @@ h1
 {
 	font-size: 4em;
 }
+h2
+{
+	font-size: 2.5em;
+	margin-bottom: 10px;
+}
 h3
 {
 	color: #ccc;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 #presence .icon
@@ -46,7 +58,7 @@ h3
 
 .push-down
 {
-	margin-top: 150px;
+	margin-top: 130px;
 }
 
 .text-center
