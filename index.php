@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 
+<?php
+	$tweet=json_decode(file_get_contents("https://api.twitter.com/1/statuses/user_timeline.json?screen_name=greyson_p")); // get tweets and decode them into a variable
+
+	 // show latest tweet
+?>
+
 <html>
 <head>
 	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
@@ -10,16 +16,20 @@
 
 
 	<script type="text/javascript">
-        $(document).ready(function(){
+        $(document).ready(function()
+        {
            // set up hover panels
            // although this can be done without JavaScript, we've attached these events
           // because it causes the hover to be triggered when the element is tapped on a touch device
-        $('.hover').hover(function(){
-            $(this).addClass('flip');
-        },function(){
-            $(this).removeClass('flip');
-        });
-    });
+	        $('.hover').hover(function()
+	        {
+	            $(this).addClass('flip');
+	        },
+	        function()
+	        {
+	            $(this).removeClass('flip');
+        	});
+    	});
  </script>
 
 </head>
@@ -33,19 +43,22 @@
 		<!-- Twitter -->
 		<div class="panel hover">
 			<div class="front"><div class="icon blue"><img src="img/icons/twitter.png" /></div></div>
-			<div class="back"><div class="icon navy"><p>Follow @greyson_p</p></div></div>
+			<div class="back"><div class="icon blue-dark">
+				<p><?php echo $tweet[0]->text; ?></p>
+				<p>Follow <a href="https://twitter.com/greyson_p">@greyson_p</a></p>
+			</div></div>
 		</div>
 
 		<!-- Github -->
 		<div class="panel hover">
 			<div class="front"><div class="icon grey"><img src="img/icons/github.png" /></div></div>
-			<div class="back"><div class="icon navy"><p>Follow @greyson_p</p></div></div>
+			<div class="back"><div class="icon grey-dark"><p>Follow @greyson_p</p></div></div>
 		</div>
 
 		<!-- LinkedIn -->
 		<div class="panel hover">
 			<div class="front"><div class="icon navy"><img src="img/icons/linkedin.png" /></div></div>
-			<div class="back"><div class="icon navy"><p>Follow @greyson_p</p></div></div>
+			<div class="back"><div class="icon navy-dark"><p>Follow @greyson_p</p></div></div>
 		</div>
 
 
