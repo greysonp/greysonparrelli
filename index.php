@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <?php
-	$tweet=json_decode(file_get_contents("https://api.twitter.com/1/statuses/user_timeline.json?screen_name=greyson_p")); // get tweets and decode them into a variable
+	$tweet=json_decode(file_get_contents("https://api.twitter.com/1/statuses/user_timeline.json?screen_name=greyson_p&exclude_replies=true")); // get tweets and decode them into a variable
 
 	 // show latest tweet
 ?>
