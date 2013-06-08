@@ -4,6 +4,24 @@
 <head>
 	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
 	<link href="css/style.css" rel="stylesheet" />
+
+	<script src="js/jquery.min.js" type="text/javascript"></script>
+	<script src="js/prefixfree.min.js" type="text/javascript"></script>
+
+
+	<script type="text/javascript">
+        $(document).ready(function(){
+           // set up hover panels
+           // although this can be done without JavaScript, we've attached these events
+          // because it causes the hover to be triggered when the element is tapped on a touch device
+        $('.hover').hover(function(){
+            $(this).addClass('flip');
+        },function(){
+            $(this).removeClass('flip');
+        });
+    });
+ </script>
+
 </head>
 <body>
 
@@ -11,9 +29,26 @@
 
 <h2 class="push-down">PRESENCE</h2>
 <div id="presence">
-	<div class="icon blue"><img src="img/icons/twitter.png" /></div>
-	<div class="icon grey"><img src="img/icons/github.png" /></div>
-	<div class="icon navy"><img src="img/icons/linkedin.png" /></div>
+
+		<!-- Twitter -->
+		<div class="panel hover">
+			<div class="front"><div class="icon blue"><img src="img/icons/twitter.png" /></div></div>
+			<div class="back"><div class="icon navy"><p>Follow @greyson_p</p></div></div>
+		</div>
+
+		<!-- Github -->
+		<div class="panel hover">
+			<div class="front"><div class="icon grey"><img src="img/icons/github.png" /></div></div>
+			<div class="back"><div class="icon navy"><p>Follow @greyson_p</p></div></div>
+		</div>
+
+		<!-- LinkedIn -->
+		<div class="panel hover">
+			<div class="front"><div class="icon navy"><img src="img/icons/linkedin.png" /></div></div>
+			<div class="back"><div class="icon navy"><p>Follow @greyson_p</p></div></div>
+		</div>
+
+
 </div>
 
 <h2>PROJECTS</h2>
