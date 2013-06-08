@@ -29,6 +29,11 @@
 	        {
 	            $(this).removeClass('flip');
         	});
+
+        	$('.panel').click(function()
+        	{
+        		window.location.href = $(this).data('url');
+        	})
     	});
  </script>
 
@@ -41,7 +46,7 @@
 <div id="presence">
 
 		<!-- Twitter -->
-		<div class="panel hover">
+		<div class="panel hover" data-url="http://twitter.com/greyson_p">
 			<div class="front"><div class="icon blue"><img src="img/icons/twitter.png" /></div></div>
 			<div class="back"><div class="icon blue-dark">
 				<p><?php echo $tweet[0]->text; ?></p>
@@ -50,13 +55,13 @@
 		</div>
 
 		<!-- Github -->
-		<div class="panel hover">
+		<div class="panel hover" data-url="http://github.com/greysonp">
 			<div class="front"><div class="icon grey"><img src="img/icons/github.png" /></div></div>
 			<div class="back"><div class="icon grey-dark"><p>Follow @greyson_p</p></div></div>
 		</div>
 
 		<!-- LinkedIn -->
-		<div class="panel hover">
+		<div class="panel hover" data-url="http://www.linkedin.com/pub/greyson-parrelli/2b/997/887/">
 			<div class="front"><div class="icon navy"><img src="img/icons/linkedin.png" /></div></div>
 			<div class="back"><div class="icon navy-dark"><p>Follow @greyson_p</p></div></div>
 		</div>
