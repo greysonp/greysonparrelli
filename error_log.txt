@@ -1,0 +1,147 @@
+[09-Jun-2013 12:44:59 US/Pacific] PHP Warning:  file_get_contents(https://api.github.com/users/greysonp/repos): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /Users/greyson/dev/greysonparrelli/index.php on line 11
+[09-Jun-2013 12:48:25 US/Pacific] PHP Notice:  Undefined variable: repos in /Users/greyson/dev/greysonparrelli/index.php on line 36
+[09-Jun-2013 12:49:34 US/Pacific] PHP Notice:  Undefined variable: repos in /Users/greyson/dev/greysonparrelli/index.php on line 37
+[09-Jun-2013 12:51:17 US/Pacific] PHP Notice:  Undefined variable: repos in /Users/greyson/dev/greysonparrelli/index.php on line 43
+[09-Jun-2013 12:52:58 US/Pacific] PHP Warning:  Invalid argument supplied for foreach() in /Users/greyson/dev/greysonparrelli/index.php on line 13
+[09-Jun-2013 12:54:40 US/Pacific] PHP Warning:  Invalid argument supplied for foreach() in /Users/greyson/dev/greysonparrelli/index.php on line 13
+[09-Jun-2013 13:10:56 US/Pacific] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 13:14:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commits_ur in /Users/greyson/dev/greysonparrelli/index.php on line 15
+[09-Jun-2013 22:20:59 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:20:59 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:20:59 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:00 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:00 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:00 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:01 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:01 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:01 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:02 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:02 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:02 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:04 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:04 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:04 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:05 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:05 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:05 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:06 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:06 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:06 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:07 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:07 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:07 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:08 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:09 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:09 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:09 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:11 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:11 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:11 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:12 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:12 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:12 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:12 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:12 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:12 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:12 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:12 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:12 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:13 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:13 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:13 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:13 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:13 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:13 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:14 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:14 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:14 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:14 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:15 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:15 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:15 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:15 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:15 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:15 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:15 US/Pacific] PHP Notice:  Array to string conversion in /Users/greyson/dev/greysonparrelli/index.php on line 32
+[09-Jun-2013 22:21:16 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:16 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:16 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:17 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:17 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:17 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:17 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:17 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:17 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:19 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:19 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:19 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:20 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:20 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:20 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:21 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:21 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:21 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:22 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:22 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:22 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:23 US/Pacific] PHP Notice:  Undefined property: stdClass::$commit in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:23 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:23 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:21:23 US/Pacific] PHP Notice:  Array to string conversion in /Users/greyson/dev/greysonparrelli/index.php on line 32
+[09-Jun-2013 22:22:16 US/Pacific] PHP Notice:  Array to string conversion in /Users/greyson/dev/greysonparrelli/index.php on line 32
+[09-Jun-2013 22:24:08 US/Pacific] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/greyson/dev/greysonparrelli/index.php on line 20
+[09-Jun-2013 22:27:09 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:27:09 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[09-Jun-2013 22:27:09 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[09-Jun-2013 22:27:09 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[09-Jun-2013 22:27:09 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:27:09 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:27:09 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:28:37 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:28:37 US/Pacific] PHP Warning:  Illegal string offset 'name' in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[09-Jun-2013 22:28:37 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:28:37 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:28:37 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:29:10 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:29:10 US/Pacific] PHP Warning:  Illegal string offset 'name' in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[09-Jun-2013 22:30:10 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:30:10 US/Pacific] PHP Warning:  Illegal string offset 'name' in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[09-Jun-2013 22:30:30 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:30:30 US/Pacific] PHP Warning:  Illegal string offset 'name' in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[09-Jun-2013 22:31:05 US/Pacific] PHP Warning:  Illegal string offset 'commits_url' in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:31:05 US/Pacific] PHP Warning:  Illegal string offset 'name' in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[09-Jun-2013 22:31:40 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:31:40 US/Pacific] PHP Warning:  Illegal string offset 'name' in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[09-Jun-2013 22:32:18 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:32:18 US/Pacific] PHP Warning:  Illegal string offset 'name' in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[09-Jun-2013 22:33:01 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:33:01 US/Pacific] PHP Notice:  Undefined variable: lastCommit in /Users/greyson/dev/greysonparrelli/index.php on line 34
+[09-Jun-2013 22:33:12 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:36:35 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 16
+[09-Jun-2013 22:36:35 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 18
+[09-Jun-2013 22:36:58 US/Pacific] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /Users/greyson/dev/greysonparrelli/index.php on line 12
+[09-Jun-2013 22:37:22 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 17
+[09-Jun-2013 22:37:22 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 19
+[09-Jun-2013 22:42:31 US/Pacific] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/greyson/dev/greysonparrelli/index.php on line 22
+[09-Jun-2013 22:43:01 US/Pacific] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /Users/greyson/dev/greysonparrelli/index.php on line 23
+[09-Jun-2013 22:43:18 US/Pacific] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/greyson/dev/greysonparrelli/index.php on line 29
+[09-Jun-2013 22:44:04 US/Pacific] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/greyson/dev/greysonparrelli/index.php on line 29
+[09-Jun-2013 22:44:24 US/Pacific] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/greyson/dev/greysonparrelli/index.php on line 28

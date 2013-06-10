@@ -1,9 +1,48 @@
 <!DOCTYPE html>
 
 <?php
-	$tweet=json_decode(file_get_contents("https://api.twitter.com/1/statuses/user_timeline.json?screen_name=greyson_p&exclude_replies=true")); // get tweets and decode them into a variable
+	ini_set('display_errors', 1);
+	ini_set('log_errors', 1);
+	ini_set('error_log', dirname(__FILE__) . '/error_log.txt');
+	error_reporting(E_ALL);
 
-	 // show latest tweet
+	$tweet=json_decode(file_get_contents("https://api.twitter.com/1/statuses/user_timeline.json?screen_name=greyson_p&exclude_replies=true")); // get tweets and decode them into a variable
+	
+	$clientId = "a960821ef0303ef67bb9";
+	$clientSecret = "41c7af202079462ba45ff5deae99d7b0f9a04e18";
+    $repos = curlToJson("https://api.github.com/users/greysonp/repos?client_id=$clientId&client_secret=$clientSecret");
+    $lastCommit = array("repo" => null, "message" => null, "date" => null);
+
+    foreach ($repos as $r)
+    {
+    	// The url has a {/sha} at the end of it - this gets rid of that
+    	$commitUrl = explode("{", $r->commits_url)[0];
+    	// echo($commitUrl . "<br />");
+
+    	$last = curlToJson($commitUrl . "?client_id=$clientId&client_secret=$clientSecret")[0];
+
+    	// If the last date is unset, or the repo we're looking at has a more recent date than our new one
+    	// (the dates are formatted as such that a string compare should work to compare the two)
+    	if (!isset($lastCommit["date"]) || strcmp($lastCommit["date"], $last->commit->committer->date) < 0)
+    	{
+    		$lastCommit["repo"] = $r->name;
+    		$lastCommit["message"] = $last->commit->message;
+    		$lastCommit["date"] = $last->commit->committer->date;
+    	}
+    }
+
+    // echo json_encode($lastCommit);
+
+    function curlToJson($url)
+    {
+    	$ch = curl_init();
+	    curl_setopt($ch, CURLOPT_URL, $url);
+	    curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
+	    curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1468.0 Safari/537.36");
+	    $data = curl_exec($ch);
+	    curl_close($ch);
+	    return json_decode($data);
+    }
 ?>
 
 <html>
@@ -14,28 +53,7 @@
 	<script src="js/jquery.min.js" type="text/javascript"></script>
 	<script src="js/prefixfree.min.js" type="text/javascript"></script>
 
-
-	<script type="text/javascript">
-        $(document).ready(function()
-        {
-           // set up hover panels
-           // although this can be done without JavaScript, we've attached these events
-          // because it causes the hover to be triggered when the element is tapped on a touch device
-	        $('.hover').hover(function()
-	        {
-	            $(this).addClass('flip');
-	        },
-	        function()
-	        {
-	            $(this).removeClass('flip');
-        	});
-
-        	$('.panel').click(function()
-        	{
-        		window.location.href = $(this).data('url');
-        	})
-    	});
- </script>
+	<script src="js/main.js" type="text/javascript"></script>
 
 </head>
 <body>
@@ -44,7 +62,6 @@
 
 <h2 class="push-down">PRESENCE</h2>
 <div id="presence">
-
 		<!-- Twitter -->
 		<div class="panel hover" data-url="http://twitter.com/greyson_p">
 			<div class="front"><div class="icon blue"><img src="img/icons/twitter.png" /></div></div>
@@ -57,7 +74,10 @@
 		<!-- Github -->
 		<div class="panel hover" data-url="http://github.com/greysonp">
 			<div class="front"><div class="icon grey"><img src="img/icons/github.png" /></div></div>
-			<div class="back"><div class="icon grey-dark"><p>Follow @greyson_p</p></div></div>
+			<div class="back"><div class="icon grey-dark">
+				<p>Last Commit</p>
+				<p><?php echo $lastCommit["message"]; ?></p>
+			</div></div>
 		</div>
 
 		<!-- LinkedIn -->
