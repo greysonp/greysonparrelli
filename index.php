@@ -10,25 +10,21 @@
 	
 	$clientId = "a960821ef0303ef67bb9";
 	$clientSecret = "41c7af202079462ba45ff5deae99d7b0f9a04e18";
-    $repos = curlToJson("https://api.github.com/users/greysonp/repos?client_id=$clientId&client_secret=$clientSecret");
+    $events = curlToJson("https://api.github.com/users/greysonp/events?client_id=$clientId&client_secret=$clientSecret");
     $lastCommit = array("repo" => null, "message" => null, "date" => null);
 
-    foreach ($repos as $r)
+    foreach ($events as $e)
     {
-    	// The url has a {/sha} at the end of it - this gets rid of that
-    	$commitUrl = explode("{", $r->commits_url)[0];
-    	// echo($commitUrl . "<br />");
-
-    	$last = curlToJson($commitUrl . "?client_id=$clientId&client_secret=$clientSecret")[0];
+    	// We only want push events
+    	if (strcmp($e->type, "PushEvent") != 0)
+    		continue;
 
     	// If the last date is unset, or the repo we're looking at has a more recent date than our new one
     	// (the dates are formatted as such that a string compare should work to compare the two)
-    	if (!isset($lastCommit["date"]) || strcmp($lastCommit["date"], $last->commit->committer->date) < 0)
-    	{
-    		$lastCommit["repo"] = $r->name;
-    		$lastCommit["message"] = $last->commit->message;
-    		$lastCommit["date"] = $last->commit->committer->date;
-    	}
+		$lastCommit["repo"] = $e->repo->name;
+		$lastCommit["message"] = $e->payload->commits[0]->message;
+		$lastCommit["date"] = $e->created_at;
+		break;
     }
 
     // echo json_encode($lastCommit);

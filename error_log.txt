@@ -145,3 +145,907 @@
 [09-Jun-2013 22:43:18 US/Pacific] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/greyson/dev/greysonparrelli/index.php on line 29
 [09-Jun-2013 22:44:04 US/Pacific] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/greyson/dev/greysonparrelli/index.php on line 29
 [09-Jun-2013 22:44:24 US/Pacific] PHP Fatal error:  Cannot use object of type stdClass as array in /Users/greyson/dev/greysonparrelli/index.php on line 28
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 24
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:08 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Use of undefined constant events - assumed 'events' in /Users/greyson/dev/greysonparrelli/index.php on line 14
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:28 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Array to string conversion in /Users/greyson/dev/greysonparrelli/index.php on line 14
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:43 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 25
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: r in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Undefined variable: last in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:33:57 US/Pacific] PHP Notice:  Trying to get property of non-object in /Users/greyson/dev/greysonparrelli/index.php on line 27
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
+[10-Jun-2013 07:34:14 US/Pacific] PHP Notice:  Undefined property: stdClass::$created_at in /Users/greyson/dev/greysonparrelli/index.php on line 26
