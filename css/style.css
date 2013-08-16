@@ -67,17 +67,17 @@ a
 	height: 128px;
 	width: 128px;
 	background-color: #aaf;
+    overflow: hidden;
 }
 
-.push-down
+.commit
 {
-	margin-top: 130px;
+    font-style: italic;
 }
 
-.text-center
-{
-	text-align: center;
-}
+.push-down { margin-top: 130px; }
+
+.text-center { text-align: center; }
 
 .blue { background-color: #62B8E3; }
 

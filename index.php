@@ -6,12 +6,12 @@
 	ini_set('error_log', dirname(__FILE__) . '/error_log.txt');
 	error_reporting(E_ALL);
 
-	$tweet=json_decode(file_get_contents("https://api.twitter.com/1/statuses/user_timeline.json?screen_name=greyson_p&exclude_replies=true")); // get tweets and decode them into a variable
-	
+	$tweet=json_decode(file_get_contents("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=greyson_p&include_rts=false&exclude_replies=true&count=10")); // get tweets and decode them into a variable
+	echo json_encode($tweet);
 	$clientId = "a960821ef0303ef67bb9";
 	$clientSecret = "41c7af202079462ba45ff5deae99d7b0f9a04e18";
     $events = curlToJson("https://api.github.com/users/greysonp/events?client_id=$clientId&client_secret=$clientSecret");
-    $lastCommit = array("repo" => null, "message" => null, "date" => null);
+    $lastCommit = array("repo" => null, "url" => null, "message" => null, "date" => null);
 
     foreach ($events as $e)
     {
@@ -21,7 +21,8 @@
 
     	// If the last date is unset, or the repo we're looking at has a more recent date than our new one
     	// (the dates are formatted as such that a string compare should work to compare the two)
-		$lastCommit["repo"] = $e->repo->name;
+		$lastCommit["repo"] = explode("/", $e->repo->name)[1];
+		$lastCommit["url"] = "http://github.com/" . $e->repo->name;
 		$lastCommit["message"] = $e->payload->commits[0]->message;
 		$lastCommit["date"] = $e->created_at;
 		break;
@@ -71,8 +72,10 @@
 		<div class="panel hover" data-url="http://github.com/greysonp">
 			<div class="front"><div class="icon grey"><img src="img/icons/github.png" /></div></div>
 			<div class="back"><div class="icon grey-dark">
-				<p>Last Commit</p>
-				<p><?php echo $lastCommit["message"]; ?></p>
+				<p><?php 
+					echo 'Repo: <a href="'.$lastCommit["url"].'">'.$lastCommit["repo"].'</a><br />';
+					echo '<p class="commit">' . $lastCommit["message"] . '</p>';
+				?></p>
 			</div></div>
 		</div>
 
