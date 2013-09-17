@@ -1,13 +1,33 @@
 <!DOCTYPE html>
 
 <?php
+    // Setup
+    session_start();
+    require_once("twitteroauth/twitteroauth/twitteroauth.php"); //Path to twitteroauth library
 	ini_set('display_errors', 1);
 	ini_set('log_errors', 1);
 	ini_set('error_log', dirname(__FILE__) . '/error_log.txt');
+    date_default_timezone_set('UTC');
 	error_reporting(E_ALL);
 
-	$tweet=json_decode(file_get_contents("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=greyson_p&include_rts=false&exclude_replies=true&count=10")); // get tweets and decode them into a variable
-	echo json_encode($tweet);
+    // Twitter
+    $twitteruser = "greyson_p";
+    $notweets = 1;
+    $consumerkey = "b3gOUm2GTcjA53Ou3LCUw";
+    $consumersecret = "XV11A1jNcBQfGdkI64IYflHoNtjavTm4nOQA0czQ";
+    $accesstoken = "141591730-zlKZ0uUlQYXbBTEFhpaJyHcHpdSoMZUnz0ESoK2f";
+    $accesstokensecret = "gVS2iLQZgAjoN6niFLfVMqYNx8UoOp7uvrPm5V62g";
+
+    function getConnectionWithAccessToken($cons_key, $cons_secret, $oauth_token, $oauth_token_secret) {
+        $connection = new TwitterOAuth($cons_key, $cons_secret, $oauth_token, $oauth_token_secret);
+        return $connection;
+    }
+ 
+    $connection = getConnectionWithAccessToken($consumerkey, $consumersecret, $accesstoken, $accesstokensecret);
+ 
+    $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=$twitteruser&count=$notweets&include_rts=false&exclude_replies=true");
+
+    // Github
 	$clientId = "a960821ef0303ef67bb9";
 	$clientSecret = "41c7af202079462ba45ff5deae99d7b0f9a04e18";
     $events = curlToJson("https://api.github.com/users/greysonp/events?client_id=$clientId&client_secret=$clientSecret");
@@ -63,7 +83,7 @@
 		<div class="panel hover" data-url="http://twitter.com/greyson_p">
 			<div class="front"><div class="icon blue"><img src="img/icons/twitter.png" /></div></div>
 			<div class="back"><div class="icon blue-dark">
-				<p><?php echo $tweet[0]->text; ?></p>
+				<p><?php echo $tweets[0]->text; ?></p>
 				<p>Follow <a href="https://twitter.com/greyson_p">@greyson_p</a></p>
 			</div></div>
 		</div>
