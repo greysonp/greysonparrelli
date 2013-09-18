@@ -69,7 +69,7 @@
         <script src="js/main.js" type="text/javascript"></script>
 
     </head>
-    <body class="greyTheme">
+    <body class="redTheme">
         <div class="content">
             <h1 class="text-center">
                 Greyson Parrelli

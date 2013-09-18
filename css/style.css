@@ -43,6 +43,16 @@ a {
 .greyTheme a:hover {
   color: #99f;
 }
+.redTheme {
+  background-color: #cd4436;
+  color: #633;
+}
+.redTheme a {
+  color: #dd0;
+}
+.redTheme a:hover {
+  color: #ff0;
+}
 .presence .icon {
   display: inline-block;
 }
