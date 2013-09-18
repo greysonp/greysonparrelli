@@ -60,7 +60,7 @@
 
 <html>
     <head>
-        <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
         <link href="css/style.css" rel="stylesheet" />
 
         <script src="js/jquery.min.js" type="text/javascript"></script>
@@ -69,7 +69,7 @@
         <script src="js/main.js" type="text/javascript"></script>
 
     </head>
-    <body>
+    <body class="greyTheme">
         <div class="content">
             <h1 class="text-center">
                 Greyson Parrelli
@@ -77,14 +77,13 @@
             </h1>
 
             <h2 class="push-down">Presence</h2>
-            <div id="presence">
+            <div class="presence">
 
                     <!-- Twitter -->
                     <div class="panel hover" data-url="http://twitter.com/greyson_p">
                         <div class="front"><div class="icon blue"><img src="img/icons/twitter.png" /></div></div>
                         <div class="back"><div class="icon blue-dark">
                             <p><?php echo $tweets[0]->text; ?></p>
-                            <p>Follow <a href="https://twitter.com/greyson_p">@greyson_p</a></p>
                         </div></div>
                     </div>
 
@@ -93,8 +92,8 @@
                         <div class="front"><div class="icon grey"><img src="img/icons/github.png" /></div></div>
                         <div class="back"><div class="icon grey-dark">
                             <p><?php 
-                                echo 'Repo: <a href="'.$lastCommit["url"].'">'.$lastCommit["repo"].'</a><br />';
-                                echo '<p class="commit">' . $lastCommit["message"] . '</p>';
+                                echo "<h1>[<a href='{$lastCommit['url']}'>{$lastCommit['repo']}</a>]</h1>";
+                                echo "<p class='commit'>{$lastCommit['message']}</p>";
                             ?></p>
                         </div></div>
                     </div>
@@ -102,26 +101,13 @@
                     <!-- LinkedIn -->
                     <div class="panel hover" data-url="http://www.linkedin.com/pub/greyson-parrelli/2b/997/887/">
                         <div class="front"><div class="icon navy"><img src="img/icons/linkedin.png" /></div></div>
-                        <div class="back"><div class="icon navy-dark"><p>Follow @greyson_p</p></div></div>
+                        <div class="back"><div class="icon navy-dark">
+                            <p>
+                                I do my best to keep it up to date.
+                            </p>
+                        </div></div>
                     </div>
             </div>
-
-            <h2>Projects</h2>
-            <div class="project">
-                <img src="img/projects/sparktab.png" />
-                <p>This is some text about SparkTab.</p>
-            </div>
-
-            <div class="project">
-                <img src="img/projects/tamagetitdone.png" />
-                <p>This is some text about Tamagetitdone.</p>
-            </div>
-
-            <div class="project">
-                <img src="img/projects/webstagram.png" />
-                <p>This is some text about Webstagram.</p>
-            </div>
-
 
             <h2>News</h2>
             <h3>Lehigh University</h3>

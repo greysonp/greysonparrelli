@@ -1,0 +1,156 @@
+// ======================
+// Variables
+// ======================
+contentWidth = 700px
+ 
+// Grey
+greyBkgColor = #eee
+greyTextColor = #89867e
+
+// Red
+
+
+// Green
+
+
+// Yellow
+
+
+// ======================
+// Base Styles
+// ======================
+html, body 
+    margin 0
+    padding 0
+    font-family "Raleway", sans-serif
+    font-size 100%
+
+p  
+    margin 0
+
+h1 
+    font-size 72px
+
+    div
+        opacity 0.5
+        font-size 24px
+
+h2 
+    font-size 48px
+    margin-bottom 10px
+
+h3 
+    margin-top 5px
+    margin-bottom 5px
+
+a 
+    text-decoration none
+
+.content 
+    width contentWidth
+    margin auto
+
+// ======================
+// Themes
+// ======================
+.greyTheme
+    background-color greyBkgColor
+    color greyTextColor
+
+    a
+        color white
+
+
+// ======================
+// Specific Styles
+// ======================
+.presence .icon 
+    display inline-block
+
+.icon 
+    padding 20px
+    height 128px
+    width 128px
+    background-color #aaf
+    overflow hidden
+    color white
+
+.panel
+    h1
+        font-size 18px
+        font-weight bold
+        margin 0
+        padding 0
+
+.commit 
+    font-style italic
+
+.push-down  
+    margin-top 130px 
+
+.text-center  
+    text-align center 
+
+.blue  
+    background-color #62B8E3 
+
+.blue-dark  
+    background-color #4994BA 
+
+.navy  
+    background-color #1B6D96 
+
+.navy-dark  
+    background-color #124C69 
+
+.grey  
+    background-color #bbb 
+
+.grey-dark  
+    background-color #888 
+
+
+/************/
+/* 3D Flips */
+/************/
+.panel 
+    width 168px
+    height 168px  
+    position relative
+    font-size .8em
+    perspective 600px
+    display inline-block
+    margin 10px
+
+.panel .front 
+    position absolute
+    top 0
+    z-index 900
+    width inherit
+    height inherit
+    text-align center
+    transform rotateX(0deg) rotateY(0deg)
+    transform-style preserve-3d
+    backface-visibility hidden
+    transition all .4s ease-in-out
+    display inline-block
+
+.panel.flip .front 
+    z-index 900
+    transform rotateY(180deg)
+
+.panel .back 
+    position absolute
+    top 0
+    z-index 800
+    width inherit
+    height inherit
+    transform rotateY(-180deg)
+    transform-style preserve-3d
+    backface-visibility hidden
+    transition all .4s ease-in-out
+    display inline-block
+
+.panel.flip .back 
+    z-index 1000
+    transform rotateX(0deg) rotateY(0deg)

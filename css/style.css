@@ -1,162 +1,128 @@
-/***************/
-/* Base Styles */
-/***************/
-html, body {
-	margin: 0px;
-	padding: 0px;
-	background-color: #eee;
-	color: #89867e;
-	font-family: "Raleway", sans-serif;
-	font-size: 100%;
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  font-size: 100%;
 }
-
-p { 
-	margin: 0px;
+p {
+  margin: 0;
 }
-
 h1 {
-	font-size: 72px;
+  font-size: 72px;
 }
-
 h1 div {
-    opacity: 0.5;
-    font-size: 24px;
+  opacity: 0.5;
+  font-size: 24px;
 }
-
 h2 {
-	font-size: 2.5em;
-	margin-bottom: 10px;
+  font-size: 48px;
+  margin-bottom: 10px;
 }
-
 h3 {
-	color: #ccc;
-	margin-top: 5px;
-	margin-bottom: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
-
 a {
-	text-decoration: none;
-	color: #0ff;
+  text-decoration: none;
 }
-
 .content {
-    width: 700px;
-    margin: auto;
+  width: 700px;
+  margin: auto;
 }
-
-/*******************/
-/* Specific Styles */
-/*******************/
-#header {
-	background-color: black;
-	width: 100%;
-	padding: 10px;
-	position: fixed;
-	margin: 0px;
-	top: 0px;
-	z-index: 2000000000;
+.greyTheme {
+  background-color: #eee;
+  color: #89867e;
 }
-
-#header h1 {
-	margin: 0px;
+.greyTheme a {
+  color: #fff;
 }
-
-#presence .icon {
-	display: inline-block;
+.presence .icon {
+  display: inline-block;
 }
-
 .icon {
-	padding: 20px;
-	height: 128px;
-	width: 128px;
-	background-color: #aaf;
-    overflow: hidden;
-    color: white;
+  padding: 20px;
+  height: 128px;
+  width: 128px;
+  background-color: #aaf;
+  overflow: hidden;
+  color: #fff;
 }
-
+.panel h1 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
 .commit {
-    font-style: italic;
+  font-style: italic;
 }
-
-.push-down { 
-    margin-top: 130px; 
+.push-down {
+  margin-top: 130px;
 }
-
-.text-center { 
-    text-align: center; 
+.text-center {
+  text-align: center;
 }
-
-.blue { 
-    background-color: #62B8E3; 
+.blue {
+  background-color: #62b8e3;
 }
-
-.blue-dark { 
-    background-color: #4994BA; 
+.blue-dark {
+  background-color: #4994ba;
 }
-
-.navy { 
-    background-color: #1B6D96; 
+.navy {
+  background-color: #1b6d96;
 }
-
-.navy-dark { 
-    background-color: #124C69; 
+.navy-dark {
+  background-color: #124c69;
 }
-
-.grey { 
-    background-color: #bbb; 
+.grey {
+  background-color: #bbb;
 }
-
-.grey-dark { 
-    background-color: #888; 
+.grey-dark {
+  background-color: #888;
 }
-
-
 /************/
 /* 3D Flips */
 /************/
 .panel {
-    width: 168px;
-    height: 168px;  
-    position: relative;
-    font-size: .8em;
-    perspective: 600px;
-    display: inline-block;
-    margin: 10px;
+  width: 168px;
+  height: 168px;
+  position: relative;
+  font-size: 0.8em;
+  perspective: 600px;
+  display: inline-block;
+  margin: 10px;
 }
-
 .panel .front {
-    position: absolute;
-    top: 0;
-    z-index: 900;
-    width: inherit;
-    height: inherit;
-    text-align: center;
-    transform: rotateX(0deg) rotateY(0deg);
-    transform-style: preserve-3d;
-    backface-visibility: hidden;
-    transition: all .4s ease-in-out;
-    display: inline-block;
+  position: absolute;
+  top: 0;
+  z-index: 900;
+  width: inherit;
+  height: inherit;
+  text-align: center;
+  transform: rotateX(0deg) rotateY(0deg);
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  transition: all 0.4s ease-in-out;
+  display: inline-block;
 }
-
 .panel.flip .front {
-    z-index: 900;
-    transform: rotateY(180deg);
+  z-index: 900;
+  transform: rotateY(180deg);
 }
-
 .panel .back {
-    position: absolute;
-    top: 0;
-    z-index: 800;
-    width: inherit;
-    height: inherit;
-    transform: rotateY(-180deg);
-    transform-style: preserve-3d;
-    backface-visibility: hidden;
-    transition: all .4s ease-in-out;
-    display: inline-block;
+  position: absolute;
+  top: 0;
+  z-index: 800;
+  width: inherit;
+  height: inherit;
+  transform: rotateY(-180deg);
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  transition: all 0.4s ease-in-out;
+  display: inline-block;
 }
-
 .panel.flip .back {
-    z-index: 1000;
-    transform: rotateX(0deg) rotateY(0deg);
+  z-index: 1000;
+  transform: rotateX(0deg) rotateY(0deg);
 }
