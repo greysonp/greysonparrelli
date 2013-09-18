@@ -79,34 +79,41 @@
             <h2 class="push-down">Presence</h2>
             <div class="presence">
 
-                    <!-- Twitter -->
-                    <div class="panel hover" data-url="http://twitter.com/greyson_p">
-                        <div class="front"><div class="icon blue"><img src="img/icons/twitter.png" /></div></div>
-                        <div class="back"><div class="icon blue-dark">
+                <!-- Twitter -->
+                <div class="panel" data-url="http://twitter.com/greyson_p">
+                    <div class="contents">
+                        <div class="half"><div class="icon blue"><img src="img/icons/twitter.png" /></div></div>
+                        <div class="half"><div class="icon blue-dark">
                             <p><?php echo $tweets[0]->text; ?></p>
                         </div></div>
                     </div>
+                </div>
 
-                    <!-- Github -->
-                    <div class="panel hover" data-url="http://github.com/greysonp">
-                        <div class="front"><div class="icon grey"><img src="img/icons/github.png" /></div></div>
-                        <div class="back"><div class="icon grey-dark">
+                <!-- Github -->
+                <div class="panel" data-url="http://github.com/greysonp">
+                    <div class="contents">
+                        <div class="half"><div class="icon grey"><img src="img/icons/github.png" /></div></div>
+                        <div class="half"><div class="icon grey-dark">
                             <p><?php 
                                 echo "<h1>[<a href='{$lastCommit['url']}'>{$lastCommit['repo']}</a>]</h1>";
                                 echo "<p class='commit'>{$lastCommit['message']}</p>";
                             ?></p>
                         </div></div>
                     </div>
+                </div>
 
-                    <!-- LinkedIn -->
-                    <div class="panel hover" data-url="http://www.linkedin.com/pub/greyson-parrelli/2b/997/887/">
-                        <div class="front"><div class="icon navy"><img src="img/icons/linkedin.png" /></div></div>
-                        <div class="back"><div class="icon navy-dark">
+                <!-- LinkedIn -->
+                <div class="panel" data-url="http://www.linkedin.com/pub/greyson-parrelli/2b/997/887/">
+                    <div class="contents">
+
+                        <div class="half"><div class="icon navy"><img src="img/icons/linkedin.png" /></div></div>
+                        <div class="half"><div class="icon navy-dark">
                             <p>
                                 I do my best to keep it up to date.
                             </p>
                         </div></div>
                     </div>
+                </div>
             </div>
 
             <h2>News</h2>

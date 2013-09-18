@@ -81,48 +81,22 @@ a {
 .grey-dark {
   background-color: #888;
 }
-/************/
-/* 3D Flips */
-/************/
 .panel {
+  display: inline-block;
   width: 168px;
   height: 168px;
-  position: relative;
-  font-size: 0.8em;
-  perspective: 600px;
-  display: inline-block;
+  overflow-y: hidden;
+  font-size: 14px;
   margin: 10px;
 }
-.panel .front {
-  position: absolute;
-  top: 0;
-  z-index: 900;
-  width: inherit;
-  height: inherit;
-  text-align: center;
-  transform: rotateX(0deg) rotateY(0deg);
-  transform-style: preserve-3d;
-  backface-visibility: hidden;
-  transition: all 0.4s ease-in-out;
-  display: inline-block;
+.panel .half {
+  width: 168px;
+  height: 168px;
 }
-.panel.flip .front {
-  z-index: 900;
-  transform: rotateY(180deg);
+.panel .contents {
+  transition: all 0.3s ease-in-out;
 }
-.panel .back {
-  position: absolute;
-  top: 0;
-  z-index: 800;
-  width: inherit;
-  height: inherit;
-  transform: rotateY(-180deg);
-  transform-style: preserve-3d;
-  backface-visibility: hidden;
-  transition: all 0.4s ease-in-out;
-  display: inline-block;
-}
-.panel.flip .back {
-  z-index: 1000;
-  transform: rotateX(0deg) rotateY(0deg);
+.panel .contents:hover {
+  position: relative;
+  transform: translate(0, -168px);
 }
