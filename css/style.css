@@ -6,14 +6,10 @@ body {
   font-size: 100%;
 }
 p {
-  margin: 0;
+  margin: 0 0 20px 0;
 }
 h1 {
   font-size: 72px;
-}
-h1 div {
-  opacity: 0.5;
-  font-size: 24px;
 }
 h2 {
   font-size: 48px;
@@ -26,16 +22,26 @@ h3 {
 a {
   text-decoration: none;
 }
+.sub-heading {
+  opacity: 0.5;
+  font-size: 24px;
+}
 .content {
   width: 700px;
   margin: auto;
+}
+.sub-link {
+  font-size: 36px;
 }
 .greyTheme {
   background-color: #eee;
   color: #89867e;
 }
 .greyTheme a {
-  color: #fff;
+  color: #66f;
+}
+.greyTheme a:hover {
+  color: #99f;
 }
 .presence .icon {
   display: inline-block;
@@ -54,11 +60,17 @@ a {
   margin: 0;
   padding: 0;
 }
+.panel a {
+  color: #ccc;
+}
+.panel a:hover {
+  color: #fff;
+}
 .commit {
   font-style: italic;
 }
 .push-down {
-  margin-top: 130px;
+  margin-top: 75px;
 }
 .text-center {
   text-align: center;

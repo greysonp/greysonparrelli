@@ -27,14 +27,10 @@ html, body
     font-size 100%
 
 p  
-    margin 0
+    margin 0 0 20px 0
 
 h1 
     font-size 72px
-
-    div
-        opacity 0.5
-        font-size 24px
 
 h2 
     font-size 48px
@@ -47,9 +43,16 @@ h3
 a 
     text-decoration none
 
+.sub-heading
+    opacity 0.5
+    font-size 24px
+
 .content 
     width contentWidth
     margin auto
+
+.sub-link
+    font-size 36px
 
 // ======================
 // Themes
@@ -59,7 +62,9 @@ a
     color greyTextColor
 
     a
-        color white
+        color #66f
+    a:hover
+        color #99f
 
 
 // ======================
@@ -82,12 +87,16 @@ a
         font-weight bold
         margin 0
         padding 0
+    a 
+        color #ccc
+    a:hover
+        color white
 
 .commit 
     font-style italic
 
 .push-down  
-    margin-top 130px 
+    margin-top 75px 
 
 .text-center  
     text-align center 
