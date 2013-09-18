@@ -1,5 +1,5 @@
 // ======================
-// Variables
+// Constants
 // ======================
 contentWidth = 700px
 panelSize = 168px
@@ -13,12 +13,18 @@ redBkgColor = #cd4436
 redTextColor = #633
 
 // Green
-greyBkgColor = #eee
-greyTextColor = #89867e
+greenBkgColor = #3fa46a
+greenTextColor = #363
 
 // Yellow
-greyBkgColor = #eee
-greyTextColor = #89867e
+yellowBkgColor = #fe7
+yellowTextColor = #663
+
+// Links
+linkBlue = #66f
+linkBlueHover = #99f
+linkYellow = #dd0
+linkYellowHover = #ff0
 
 // ======================
 // Base Styles
@@ -46,17 +52,6 @@ h3
 a 
     text-decoration none
 
-.sub-heading
-    opacity 0.5
-    font-size 24px
-
-.content 
-    width contentWidth
-    margin auto
-
-.sub-link
-    font-size 36px
-
 // ======================
 // Themes
 // ======================
@@ -65,18 +60,36 @@ a
     color greyTextColor
 
     a
-        color #66f
+        color linkBlue
     a:hover
-        color #99f
+        color linkBlueHover
 
 .redTheme
     background-color redBkgColor
     color redTextColor
 
     a
-        color #dd0
+        color linkYellow
     a:hover
-        color #ff0
+        color linkYellowHover
+
+.greenTheme
+    background-color greenBkgColor
+    color greenTextColor
+
+    a
+        color linkYellow
+    a:hover
+        color linkYellowHover
+
+.yellowTheme
+    background-color yellowBkgColor
+    color yellowTextColor
+
+    a
+        color linkBlue
+    a:hover
+        color linkBlueHover
 
 // ======================
 // Specific Styles
@@ -92,7 +105,42 @@ a
     overflow hidden
     color white
 
-.panel
+.sub-heading
+    opacity 0.5
+    font-size 24px
+
+.content 
+    width contentWidth
+    margin auto
+
+.sub-link
+    font-size 36px
+
+.commit 
+    font-style italic
+
+.date
+    font-size 14px
+    margin 0
+    padding 0
+
+.push-down  
+    margin-top 75px 
+
+.text-center  
+    text-align center 
+
+// ======================
+// Panels
+// ======================
+.panel 
+    display inline-block
+    width panelSize
+    height panelSize
+    overflow-y hidden
+    font-size 14px
+    margin 10px
+
     h1
         font-size 18px
         font-weight bold
@@ -103,15 +151,20 @@ a
     a:hover
         color white
 
-.commit 
-    font-style italic
+    .half
+        width panelSize
+        height panelSize
 
-.push-down  
-    margin-top 75px 
+    .contents
+        transition all 0.3s ease-in-out
 
-.text-center  
-    text-align center 
+    .contents:hover
+        position relative
+        transform translate(0, -1 * panelSize)
 
+// ======================
+// Panel Colors
+// ======================
 .blue  
     background-color #62B8E3 
 
@@ -130,25 +183,3 @@ a
 .grey-dark  
     background-color #888 
 
-
-// ======================
-// Panels
-// ======================
-.panel 
-    display inline-block
-    width panelSize
-    height panelSize
-    overflow-y hidden
-    font-size 14px
-    margin 10px
-
-    .half
-        width panelSize
-        height panelSize
-
-    .contents
-        transition all 0.3s ease-in-out
-
-    .contents:hover
-        position relative
-        transform translate(0, -1 * panelSize)
