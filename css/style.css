@@ -1,47 +1,53 @@
 /***************/
 /* Base Styles */
 /***************/
-html, body
-{
+html, body {
 	margin: 0px;
 	padding: 0px;
-	background-color: #444;
-	color: white;
-	font-family: "Roboto Condensed", sans-serif;
+	background-color: #eee;
+	color: #89867e;
+	font-family: "Raleway", sans-serif;
 	font-size: 100%;
 }
 
-p
-{
+p { 
 	margin: 0px;
 }
 
-h1
-{
-	font-size: 4em;
+h1 {
+	font-size: 72px;
 }
-h2
-{
+
+h1 div {
+    opacity: 0.5;
+    font-size: 24px;
+}
+
+h2 {
 	font-size: 2.5em;
 	margin-bottom: 10px;
 }
-h3
-{
+
+h3 {
 	color: #ccc;
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
-a
-{
+
+a {
 	text-decoration: none;
 	color: #0ff;
+}
+
+.content {
+    width: 700px;
+    margin: auto;
 }
 
 /*******************/
 /* Specific Styles */
 /*******************/
-#header
-{
+#header {
 	background-color: black;
 	width: 100%;
 	padding: 10px;
@@ -51,45 +57,58 @@ a
 	z-index: 2000000000;
 }
 
-#header h1
-{
+#header h1 {
 	margin: 0px;
 }
 
-#presence .icon
-{
+#presence .icon {
 	display: inline-block;
 }
 
-.icon
-{
+.icon {
 	padding: 20px;
 	height: 128px;
 	width: 128px;
 	background-color: #aaf;
     overflow: hidden;
+    color: white;
 }
 
-.commit
-{
+.commit {
     font-style: italic;
 }
 
-.push-down { margin-top: 130px; }
+.push-down { 
+    margin-top: 130px; 
+}
 
-.text-center { text-align: center; }
+.text-center { 
+    text-align: center; 
+}
 
-.blue { background-color: #62B8E3; }
+.blue { 
+    background-color: #62B8E3; 
+}
 
-.blue-dark { background-color: #4994BA; }
+.blue-dark { 
+    background-color: #4994BA; 
+}
 
-.navy { background-color: #1B6D96; }
+.navy { 
+    background-color: #1B6D96; 
+}
 
-.navy-dark { background-color: #124C69; }
+.navy-dark { 
+    background-color: #124C69; 
+}
 
-.grey { background-color: #bbb; }
+.grey { 
+    background-color: #bbb; 
+}
 
-.grey-dark { background-color: #888; }
+.grey-dark { 
+    background-color: #888; 
+}
 
 
 /************/
@@ -105,8 +124,7 @@ a
     margin: 10px;
 }
 
-.panel .front 
-{
+.panel .front {
     position: absolute;
     top: 0;
     z-index: 900;
@@ -119,13 +137,13 @@ a
     transition: all .4s ease-in-out;
     display: inline-block;
 }
-.panel.flip .front 
-{
+
+.panel.flip .front {
     z-index: 900;
     transform: rotateY(180deg);
 }
-.panel .back 
-{
+
+.panel .back {
     position: absolute;
     top: 0;
     z-index: 800;
@@ -134,13 +152,11 @@ a
     transform: rotateY(-180deg);
     transform-style: preserve-3d;
     backface-visibility: hidden;
- 
-    /* -- transition is the magic sauce for animation -- */
     transition: all .4s ease-in-out;
     display: inline-block;
 }
-.panel.flip .back 
-{
+
+.panel.flip .back {
     z-index: 1000;
     transform: rotateX(0deg) rotateY(0deg);
 }
