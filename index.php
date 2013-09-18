@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <?php
     // Setup
     session_start();
@@ -13,10 +11,10 @@
     // Twitter
     $twitteruser = "greyson_p";
     $notweets = 1;
-    $consumerkey = "b3gOUm2GTcjA53Ou3LCUw";
-    $consumersecret = "XV11A1jNcBQfGdkI64IYflHoNtjavTm4nOQA0czQ";
-    $accesstoken = "141591730-zlKZ0uUlQYXbBTEFhpaJyHcHpdSoMZUnz0ESoK2f";
-    $accesstokensecret = "gVS2iLQZgAjoN6niFLfVMqYNx8UoOp7uvrPm5V62g";
+    $consumerkey = getenv("TWITTER_CONSUMER");
+    $consumersecret = getenv("TWITTER_CONSUMER_SECRET");
+    $accesstoken = getenv("TWITTER_TOKEN");
+    $accesstokensecret = getenv("TWITTER_TOKEN_SECRET");
 
     function getConnectionWithAccessToken($cons_key, $cons_secret, $oauth_token, $oauth_token_secret) {
         $connection = new TwitterOAuth($cons_key, $cons_secret, $oauth_token, $oauth_token_secret);
@@ -28,8 +26,8 @@
     $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=$twitteruser&count=$notweets&include_rts=false&exclude_replies=true");
 
     // Github
-    $clientId = "a960821ef0303ef67bb9";
-    $clientSecret = "41c7af202079462ba45ff5deae99d7b0f9a04e18";
+    $clientId = getenv("GIT_ID");;
+    $clientSecret = getenv("GIT_SECRET");
     $events = curlToJson("https://api.github.com/users/greysonp/events?client_id=$clientId&client_secret=$clientSecret");
     $lastCommit = array("repo" => null, "url" => null, "message" => null, "date" => null);
 
@@ -40,7 +38,8 @@
 
         // If the last date is unset, or the repo we're looking at has a more recent date than our new one
         // (the dates are formatted as such that a string compare should work to compare the two)
-        $lastCommit["repo"] = explode("/", $e->repo->name)[1];
+        $exploded = explode("/", $e->repo->name);
+        $lastCommit["repo"] = $exploded[1];
         $lastCommit["url"] = "http://github.com/" . $e->repo->name;
         $lastCommit["message"] = $e->payload->commits[0]->message;
         $lastCommit["date"] = $e->created_at;
@@ -58,6 +57,7 @@
     }
 ?>
 
+<!DOCTYPE html>
 <html>
     <head>
         <link href='http://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
