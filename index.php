@@ -97,7 +97,7 @@
                         <div class="half"><div class="icon grey-dark">
                             <div><?php 
                                 echo "<h1>[<a href='{$lastCommit['url']}'>{$lastCommit['repo']}</a>]</h1>";
-                                echo "<p class='commit'>{$lastCommit['message']}</p>";
+                                echo "<p>{$lastCommit['message']}</p>";
                             ?></div>
                         </div></div>
                     </div>

@@ -78,14 +78,17 @@ a {
   font-size: 24px;
 }
 .content {
-  width: 700px;
-  margin: auto;
+  padding: 20px;
+}
+@media (min-width: 700px) {
+  .content {
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+  }
 }
 .sub-link {
   font-size: 36px;
-}
-.commit {
-  font-style: italic;
 }
 .date {
   font-size: 14px;
@@ -100,6 +103,8 @@ a {
 }
 .panel {
   display: inline-block;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
   width: 168px;
   height: 168px;
   overflow-y: hidden;
