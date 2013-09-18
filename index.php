@@ -72,8 +72,15 @@
     <body>
         <div class="content">
             <h1 class="text-center">
-                Greyson Parrelli
-                <div class="sub-heading">Programmer and Pun-Lover</div>
+                <div>Greyson Parrelli</span>
+                <div class="sub-heading">Programmer and 
+                    <div class="fact-window" id="js-fact-window">
+                        <ul class="fact-block" id="js-fact-block">
+                            <li class="fact" id="js-fact0">Hackathon Fanatic</li>
+                            <li class="fact" id="js-fact1">Pun-Lover</li>
+                        </ul>
+                    </div>
+                </div>
                 <span class="sub-link">[<a href="greyson-parrelli-resume.pdf">R&eacute;sum&eacute;</a>]</span>
             </h1>
 
