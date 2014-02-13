@@ -125,13 +125,10 @@
             </div>
 
             <h2>News</h2>
-            <h3>TechCrunch - SparkTab [<a href="http://techcrunch.com/2013/01/21/pennapps-2013-hackathon-runner-up-sparktab-could-be-your-new-browser-start-page/">Link</a>]</h3>
-            <h4 class="date">January 21, 2013</h4>
-            <p>TechCrunch writes an article about our PennApps Spring 2013 hackathon project, SparkTab.</p>
-
-            <h3>TechCrunch - Tamagetitdone [<a href="http://techcrunch.com/2013/04/07/students-tackle-road-trips-online-distraction-and-more-at-hackprinceton/">Link</a>]</h3>
-            <h4 class="date">April 7, 2013</h4>
-            <p>TechCrunch writes an article featuring our HackPrinceton Spring 2013 hackathon project, Tamagetitdone.</p>
+            
+            <h3>Technically Philly - Resizeasaurus [<a href="https://technical.ly/philly/2013/09/10/pennapps-fall-2013-our-favorites/">Link</a>]</h3>
+            <h4 class="date">Septempber 10, 2013</h4>
+            <p>It looks like at least a few of the judges at PennApps appreciated Resizeasaurus, a goofy Chrome extension that turns yoru browser into a dinosaur.</p>
 
             <h3>Lehigh - Hackathons [<a href="http://www.lehigh.edu/engineering/news/student/stdt_20130425_student_hackers.html">Link</a>]</h3>
             <h4 class="date">May 28, 2013</h4>
@@ -139,6 +136,15 @@
                 Lehigh University does a write-up on our success in our last few hackathons, with details about the projects we made at each.
                 Lehigh also wrote another (similar) article, featured [<a href="http://www4.lehigh.edu/news/newsarticle.aspx?Channel=%2fChannels%2fNews+2013&WorkflowItemID=3c30561f-436f-4d37-8729-cd4b32b8a469">here</a>].
             </p>
+
+            <h3>TechCrunch - Tamagetitdone [<a href="http://techcrunch.com/2013/04/07/students-tackle-road-trips-online-distraction-and-more-at-hackprinceton/">Link</a>]</h3>
+            <h4 class="date">April 7, 2013</h4>
+            <p>TechCrunch writes an article featuring our HackPrinceton Spring 2013 hackathon project, Tamagetitdone.</p>
+
+            <h3>TechCrunch - SparkTab [<a href="http://techcrunch.com/2013/01/21/pennapps-2013-hackathon-runner-up-sparktab-could-be-your-new-browser-start-page/">Link</a>]</h3>
+            <h4 class="date">January 21, 2013</h4>
+            <p>TechCrunch writes an article about our PennApps Spring 2013 hackathon project, SparkTab.</p>
+
         </div>
     </body>
 </html>
