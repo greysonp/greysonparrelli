@@ -127,7 +127,7 @@
             <h2>News</h2>
             
             <h3>Technically Philly - Resizeasaurus [<a href="https://technical.ly/philly/2013/09/10/pennapps-fall-2013-our-favorites/">Link</a>]</h3>
-            <h4 class="date">Septempber 10, 2013</h4>
+            <h4 class="date">September 10, 2013</h4>
             <p>It looks like at least a few of the judges at PennApps appreciated Resizeasaurus, a goofy Chrome extension that turns yoru browser into a dinosaur.</p>
 
             <h3>Lehigh - Hackathons [<a href="http://www.lehigh.edu/engineering/news/student/stdt_20130425_student_hackers.html">Link</a>]</h3>
